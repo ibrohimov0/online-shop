@@ -23,9 +23,11 @@ input{
   cursor: text;
 }
 :root{
-  --black: #000;
-  --white: #FFF;
-  --gray: #555;
+  --black: #1e1f26;
+  --white: #e7eff6;
+  --gray: #4a4e4d;
+  --blue: #4b86b4;
+  --red: #ee4035;
   --shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
 }
 body{
